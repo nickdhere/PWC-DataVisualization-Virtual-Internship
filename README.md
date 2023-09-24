@@ -29,7 +29,7 @@ This virtual experience program comprises three key tasks:
 ![2023-09-24 (2)](https://github.com/nickdhere/PWC-DataVisualization-Virtual-Internship/assets/125814305/63f9921a-457b-4915-977a-aa16c41bb3ed)
 
 
-Task 3: Establish Diversity and Inclusion in HR - Visualize gender balance in the executive suite.
+### Task 3: Establish Diversity and Inclusion in HR - Visualize gender balance in the executive suite.
 ![2023-09-24 (3)](https://github.com/nickdhere/PWC-DataVisualization-Virtual-Internship/assets/125814305/937177f4-c376-4d0e-a3b2-25a81e697f1a)
 ![2023-09-24 (4)](https://github.com/nickdhere/PWC-DataVisualization-Virtual-Internship/assets/125814305/1f0c05e4-658d-40bf-8ec5-84a604b01b7e)
 
