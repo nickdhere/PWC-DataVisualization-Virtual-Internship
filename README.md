@@ -18,7 +18,7 @@ visualizing their data.
 This virtual experience program comprises three key tasks:
 
 ### Task 1: Develop a Call Centre Dashboard - Visualize customer and agent behavior.
-![2023-09-24](https://github.com/nickdhere/PWC-DataVisualization-Virtual-Internship/assets/125814305/b4a527e7-dba9-4649-aa69-fa6e32a5b1d3)
+![Task 1 gif](https://github.com/nickdhere/PWC-DataVisualization-Virtual-Internship/assets/125814305/bf7c0478-fa3e-484e-bce0-5d9c1d68fb95)
 
 
 
