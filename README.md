@@ -17,14 +17,20 @@ visualizing their data.
 
 This virtual experience program comprises three key tasks:
 
-Task 1: Develop a Call Centre Dashboard - Visualize customer and agent behavior.
-![2023-09-24](https://github.com/nickdhere/PWC-DataVisualization-Virtual-Internship/assets/125814305/df5fde2a-49ba-4777-809f-e41ec9167dbd)
+### Task 1: Develop a Call Centre Dashboard - Visualize customer and agent behavior.
+![2023-09-24](https://github.com/nickdhere/PWC-DataVisualization-Virtual-Internship/assets/125814305/b4a527e7-dba9-4649-aa69-fa6e32a5b1d3)
 
-Task 2: Create Customer Retention Models and Predict Churn - Visualize customer demographics and insights.
-![2023-09-24 (2)](https://github.com/nickdhere/PWC-DataVisualization-Virtual-Internship/assets/125814305/ebc28f9a-de9c-4657-b06d-b384c36c7de5)
+
+
+### Task 2: Create Customer Retention Models and Predict Churn - Visualize customer demographics and insights.
+![2023-09-24 (1)](https://github.com/nickdhere/PWC-DataVisualization-Virtual-Internship/assets/125814305/6107a681-f329-40dc-9fb0-278e87ebdfc5)
+![2023-09-24 (2)](https://github.com/nickdhere/PWC-DataVisualization-Virtual-Internship/assets/125814305/63f9921a-457b-4915-977a-aa16c41bb3ed)
+
 
 Task 3: Establish Diversity and Inclusion in HR - Visualize gender balance in the executive suite.
-![2023-09-24 (4)](https://github.com/nickdhere/PWC-DataVisualization-Virtual-Internship/assets/125814305/07585de6-28ee-4f50-88dc-68ac954fcf77)
+![2023-09-24 (3)](https://github.com/nickdhere/PWC-DataVisualization-Virtual-Internship/assets/125814305/937177f4-c376-4d0e-a3b2-25a81e697f1a)
+![2023-09-24 (4)](https://github.com/nickdhere/PWC-DataVisualization-Virtual-Internship/assets/125814305/1f0c05e4-658d-40bf-8ec5-84a604b01b7e)
+
 
 
 ## ⚙️ Technical Stack
