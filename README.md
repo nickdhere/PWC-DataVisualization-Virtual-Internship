@@ -38,5 +38,5 @@ This virtual experience program comprises three key tasks:
 ## ⚙️ Technical Stack
 Visualization:
 
-Microsoft PowerBI
+Microsoft PowerBI; 
 Microsoft PowerPoint (for design layout)
